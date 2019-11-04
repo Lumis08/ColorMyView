@@ -15,6 +15,10 @@ class MainActivity : AppCompatActivity() {
         setListeners()
     }
 
+    fun doSomething(){
+        //TODO: please complete the task
+    }
+
     fun setListeners() {
 
         val clickableViews: List<View> =
